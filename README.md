@@ -1,2 +1,2 @@
 # SVM
-SVM with pytorch??
+A yooo, you can do JS???
